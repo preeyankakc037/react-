@@ -11,7 +11,10 @@ Currently, two official plugins are available:
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
 
-React Summer Study
+
+
+
+# React Summer Study
 This repository contains code, notes, and examples from my React.js learning journey during the summer class.
 The goal is to strengthen my understanding of modern front-end development with React, including component-based architecture, hooks, state management, and best practices.
 
