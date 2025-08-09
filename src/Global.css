@@ -1,0 +1,27 @@
+.success{
+    background-color: green;
+    color: white;
+}
+
+.warning{
+    background-color: rgb(87, 87, 11);
+    color: white;
+}
+
+.error{
+    background-color: red;
+    color: white;
+}
+
+
+.card{
+    box-shadow: 5px 5px 5px;
+    padding: 10px;
+    margin-top: 34px;
+    border: 5px solid purple;
+}
+
+.card-container{
+    display: flex;
+    gap: 40px;
+}
