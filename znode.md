@@ -61,3 +61,7 @@ To run
      input array, output can be on any  ( to find sum of all element )
 
 Use ` rafce ` short cut 
+
+
+# Day 4 : LearnUseState 
+In React, useState is a Hook that allows functional components to have state. It lets you declare a state variable and a function to update it. When the state changes using this function, React automatically re-renders the component to reflect the new value. This makes it easy to manage dynamic data, like form inputs, counters, or toggles, directly within functional components.
