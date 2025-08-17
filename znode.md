@@ -1,4 +1,6 @@
 > # Day 1 React 
+ 
+ React made writing both js and html together possible
 
  Tag is considered as data and we can return tag as well     
  `  return <div> My name is Preeyanka Khatri.</div>`
@@ -14,7 +16,7 @@
      It's a custom tag.  
      rules: 
           it is a function whose first letter is capital 
-          it must return only one JSX Element 
+          it must return only one JSX Element. 
 
 
 { }
@@ -34,7 +36,8 @@ then the project will open
 
 
 > PROPS 
-It's a value passed 
+
+It's a value passed to component 
 Passing Props
 getting Props
 
@@ -65,3 +68,14 @@ Use ` rafce ` short cut
 
 # Day 4 : LearnUseState 
 In React, useState is a Hook that allows functional components to have state. It lets you declare a state variable and a function to update it. When the state changes using this function, React automatically re-renders the component to reflect the new value. This makes it easy to manage dynamic data, like form inputs, counters, or toggles, directly within functional components.
+
+
+# Day 5 : Rewind How to define a variable?
+
+  In React, we define variables just like in JavaScript using let and const. But if we want the variable to change the UI when updated, we use React state (useState).
+
+  > Map, Filters and reduce are used as Loop 
+  
+
+  > Image 
+    . means public folder 

@@ -1,12 +1,14 @@
 import Address from "./Address";
 import ButtonClick from "./ButtonClick";
 import College from "./College";
+import HandleButtonClick from "./HandleButtonClick";
 import Info from "./info";
 import Job from "./job";
 import LearnUseState1 from "./LearnUseState/LearnUseState1";
 import LearnUseState2 from "./LearnUseState/LearnUseState2";
 import LearnUseState3 from "./LearnUseState/LearnUseState3";
 import LearnUseState4 from "./LearnUseState/LearnUseState4";
+import LearnUseState5 from "./LearnUseState/LearnUseState5";
 import Name from "./Name";
 import Product from "./Product";
 import ReadAllProduct from "./ReadAllProduct";
@@ -44,6 +46,8 @@ establishedYear={2004}
 courses="Year"
 numberOFStudents={900}>
 </College> */}
+<HandleButtonClick></HandleButtonClick>
+<LearnUseState5></LearnUseState5>
 <LearnUseState4></LearnUseState4>
 <LearnUseState3></LearnUseState3>
 <LearnUseState2></LearnUseState2>
