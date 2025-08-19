@@ -77,5 +77,10 @@ In React, useState is a Hook that allows functional components to have state. It
   > Map, Filters and reduce are used as Loop 
   
 
-  > Image 
+  > Image            
     . means public folder 
+
+
+# Day 6 
+installing 
+`npm i react-router-dom `

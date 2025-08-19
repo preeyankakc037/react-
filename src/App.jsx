@@ -1,6 +1,8 @@
 import Address from "./Address";
 import ButtonClick from "./ButtonClick";
-import College from "./College";
+import College from "./College1";
+import Mylink from "./component/Mylink";
+import MyRoutes from "./component/MyRoutes";
 import HandleButtonClick from "./HandleButtonClick";
 import Info from "./info";
 import Job from "./job";
@@ -46,7 +48,7 @@ establishedYear={2004}
 courses="Year"
 numberOFStudents={900}>
 </College> */}
-<HandleButtonClick></HandleButtonClick>
+{/* <HandleButtonClick></HandleButtonClick>
 <LearnUseState5></LearnUseState5>
 <LearnUseState4></LearnUseState4>
 <LearnUseState3></LearnUseState3>
@@ -55,7 +57,10 @@ numberOFStudents={900}>
 <ButtonClick></ButtonClick>
 <TernaryOperator></TernaryOperator>
 <ReadAllProduct></ReadAllProduct>
-<ReadAllUsers></ReadAllUsers>
+<ReadAllUsers></ReadAllUsers> */}
+<MyRoutes></MyRoutes>
+<Mylink></Mylink>
+
  </div>);
 };
 
